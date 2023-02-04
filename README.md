@@ -6,7 +6,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 
 <!-- PROJECT LOGO -->
@@ -294,6 +293,4 @@ Project Link: [https://github.com/presnap/presnap.github.io](https://github.com/
 [stars-url]: https://github.com/presnap/presnap.github.io/stargazers
 [issues-shield]: https://img.shields.io/github/issues/presnap/presnap.github.io.svg?style=for-the-badge
 [issues-url]: https://github.com/presnap/presnap.github.io/issues
-[license-shield]: https://img.shields.io/github/license/presnap/presnap.github.io.svg?style=for-the-badge
-[license-url]: https://github.com/presnap/presnap.github.io/blob/master/LICENSE.txt
 [product-screenshot]: images/_screenshot.png
