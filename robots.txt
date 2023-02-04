@@ -1,0 +1,25 @@
+---
+layout: null
+sitemap: false
+---
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Slurp # yahoo crawler
+Allow: /
+
+User-agent: Yandexbot
+Allow: /
+
+User-agent: *
+Disallow: /

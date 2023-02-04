@@ -1,0 +1,17 @@
+---
+title: Change Log
+---
+
+<p>The latest changes will be documented here, or in the release tags on <a href="https://github.com/MidasTouch-MT/MidasTouch-MT.github.io">GitHub</a>.
+ Major/minor releases contain a tag next to the publish date.</p>
+
+<div class="changelog">
+    {% for change in site.posts %}
+    <div class="changelog-item">
+        <h3>{{ change.title }}</h3>
+        <p><span class="date">{{ change.date | date: "%B %d, %Y" }}</span> <span class="badge {{ change.type }}">{{ change.type }}</span></p>
+
+        {{ change.content }}
+    </div>
+    {% endfor %}
+</div>
