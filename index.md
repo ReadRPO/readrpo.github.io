@@ -2,8 +2,6 @@
 title: Welcome
 ---
 
-{% include searchbox.html %}
-
 ## About Our Project 
 Playscrambler is an intuitive tool to detect the location of a football player on a field using relative points and landmarks. This data can be rearranged into routes that would be drawn out based on their paths and trajectories. This provides the user with data that could be used to break down the tendencies of offense/defense, mark footage based off annotated data, and provide a dynamic for coaches to make executive decisions in real time. 
 
