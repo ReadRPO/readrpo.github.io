@@ -264,7 +264,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Presnap - aaravbatra@duck.com
+Presnap - Aarav Batra
+Email us at aaravbatra@duck.com
 
 Project Link: [https://github.com/presnap/presnap.github.io](https://github.com/presnap/presnap.github.io)
 
@@ -278,7 +279,7 @@ Project Link: [https://github.com/presnap/presnap.github.io](https://github.com/
 * [Othneil Drew for the Best README Template](https://github.com/othneildrew/Best-README-Template)
 * [CloudCannon for the Edition Jekyll Template](https://github.com/CloudCannon/edition-jekyll-template)
 * [Shields.io for the README.md headers](https://shields.io)
-* [Presnap for curating this project with ❤️](https://github.com/presnap)
+* [Aarav Batra for curating this project with ❤️](https://github.com/presnap)
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
