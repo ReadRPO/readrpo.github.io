@@ -61,11 +61,11 @@
 </details>
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE PROJECT
 ## About The Project
 
 [![Presnap][product-screenshot]](https://presnap.github.io)
-
+-->
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
 
