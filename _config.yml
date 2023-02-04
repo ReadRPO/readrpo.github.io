@@ -1,21 +1,21 @@
 # ----
 # Site
 
-title: MidasTouch - GitDoc
-url: "https://MidasTouch-MT.github.io"
+title: Presnap Docs
+url: "https://presnap.github.io"
 baseurl:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Open-source documentation website hosted on GitHub Pages.
+description: Presnap Docs hosted on GitHub Pages
 author:
-  name: Midas Touch
-  email: midastouch@duck.com
+  name: Aarav Batra
+  email: aaravbatra@duck.com
 social:
   name: Documentation
   links:
-    - https://github.com/MidasTouch-MT/MidasTouch-MT.github.io
+    - https://github.com/Presnap/Presnap.github.io
 
 # -----
 # Build
