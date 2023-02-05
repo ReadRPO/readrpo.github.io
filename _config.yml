@@ -1,21 +1,21 @@
 # ----
 # Site
 
-title: Presnap Docs
-url: "https://presnap.github.io"
+title: ReadRPO Docs
+url: "https://ReadRPO.github.io"
 baseurl:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Presnap Docs hosted on GitHub Pages
+description: ReadRPO Docs hosted on GitHub Pages
 author:
   name: Aarav Batra
   email: aaravbatra@duck.com
 social:
   name: Documentation
   links:
-    - https://github.com/Presnap/Presnap.github.io
+    - https://github.com/ReadRPO/readrpo.github.io
 
 # -----
 # Build
