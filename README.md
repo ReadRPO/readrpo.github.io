@@ -237,7 +237,8 @@ This provides the user with data that could be used to break down the tendencies
 
 <br>
 See the [open issues](https://github.com/ReadRPO/readrpo.github.io/issues) for a full list of proposed features (and known issues).
-
+<br>
+  
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
 
