@@ -265,6 +265,8 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+<p align="right">(<a href="#top">Back to Top</a>)</p>
+  
 <!-- CONTACT -->
 ## Contact
 
