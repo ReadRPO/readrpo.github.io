@@ -151,6 +151,7 @@ brew install sass/sass/sass
 * Visit [sass-lang.com](https://sass-lang.com/install) for how to install via differing applications.
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
+  
 ### Installation
 
 1. Follow the Prerequisites
