@@ -10,24 +10,24 @@
 
 <!-- PROJECT LOGO
 <br />
-  <a href="https://github.com/Presnap/presnap.github.io">
+  <a href="https://github.com/ReadRPO/readrpo.github.io">
     <img src="/touch-icon.png" alt="Logo" width="80" height="80">
   </a>
   --> 
-<h3>Presnap Docs</h3>
+<h3>ReadRPO Docs</h3>
 
-  Presnap Docs is an open-source documentation website hosted on GitHub Pages. 
-    It is distributed under the MIT license in `LICENSE`. 
-    The software is fully open-source and available for anyone to view, fork, or edit.
-    <br />
-    <a href="https://github.com/presnap/presnap.github.io"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/presnap/presnap.github.io">View Demo</a>
-    ·
-    <a href="https://github.com/presnap/presnap.github.io/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/presnap/presnap.github.io/issues">Request Feature</a>
+  ReadRPO Docs is an open-source documentation website hosted on GitHub Pages. 
+  It is distributed under the MIT license in `LICENSE`. 
+  The software is fully open-source and available for anyone to view, fork, or edit.
+  <br />
+  <a href="https://github.com/ReadRPO/readrpo.github.io"><strong>Explore the docs »</strong></a>
+  <br />
+  <br />
+  <a href="https://github.com/ReadRPO/readrpo.github.io">View Demo</a>
+  ·
+  <a href="https://github.com/ReadRPO/readrpo.github.io/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/ReadRPO/readrpo.github.io/issues">Request Feature</a>
   </p>
 </div>
 
@@ -64,7 +64,7 @@
 <!-- ABOUT THE PROJECT
 ## About The Project
 
-[![Presnap][product-screenshot]](https://presnap.github.io)
+[![ReadRPO][product-screenshot]](https://readrpo.github.io)
 -->
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
@@ -155,12 +155,12 @@ brew install sass/sass/sass
 1. Follow the Prerequisites
 2. Clone the repo via SSH
    ~~~sh
-   git clone git@github.com:presnap/presnap.github.io.git
+   git clone git@github.com:ReadRPO/readrpo.github.io.git
    ~~~
 
    Clone the repo via HTTPS
    ~~~sh
-   git clone https://github.com/presnap/presnap.github.io.git
+   git clone https://github.com/ReadRPO/readrpo.github.io.git
    ~~~
 
 3. Add your site and author details in `_config.yml`.
@@ -177,7 +177,7 @@ Run `jekyll` commands through Bundler to ensure you're using the right versions:
 $ bundle exec jekyll serve
 ~~~
 
-5. Presnap Docs are already optimised for adding, updating and removing documentation pages in CloudCannon.
+5. ReadRPO Docs are already optimised for adding, updating and removing documentation pages in CloudCannon.
 Add, update or remove a documentation page in the *Documentation* collection.
 
 * Change the category of a documentation page to move it to another section in the navigation.
@@ -202,10 +202,10 @@ Add, update or remove a documentation page in the *Documentation* collection.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Presnap is an intuitive tool to detect the location of a football player on a field using relative points and landmarks. 
+ReadRPO is an intuitive tool to detect the location of a football player on a field using relative points and landmarks. 
 This data can be rearranged into routes that would be drawn out based on their paths and trajectories. 
 This provides the user with data that could be used to break down the tendencies of offense/defense, mark footage based off annotated data, and provide a dynamic for coaches to make executive decisions in real time.
-Presnap Docs automatically tailors the website to each detected device capability.
+ReadRPO Docs automatically tailors the website to each detected device capability.
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
@@ -231,7 +231,7 @@ Presnap Docs automatically tailors the website to each detected device capabilit
 ### Logic component:
 * ...
 
-See the [open issues](https://github.com/presnap/presnap.github.io/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ReadRPO/readrpo.github.io/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
@@ -263,10 +263,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Presnap - Aarav Batra
+ReadRPO - Aarav Batra
 Email us at aaravbatra@duck.com
 
-Project Link: [https://github.com/presnap/presnap.github.io](https://github.com/presnap/presnap.github.io)
+Project Link: [https://github.com/ReadRPO/readrpo.github.io](https://github.com/ReadRPO/readrpo.github.io)
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
@@ -278,19 +278,19 @@ Project Link: [https://github.com/presnap/presnap.github.io](https://github.com/
 * [Othneil Drew for the Best README Template](https://github.com/othneildrew/Best-README-Template)
 * [CloudCannon for the Edition Jekyll Template](https://github.com/CloudCannon/edition-jekyll-template)
 * [Shields.io for the README.md headers](https://shields.io)
-* [Aarav Batra for curating this project with ❤️](https://github.com/presnap)
+* [Aarav Batra for curating this project with ❤️](https://github.com/ReadRPO)
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/presnap/presnap.github.io.svg?style=for-the-badge
-[contributors-url]: https://github.com/presnap/presnap.github.io/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/presnap/presnap.github.io.svg?style=for-the-badge
-[forks-url]: https://github.com/presnap/presnap.github.io/network/members
-[stars-shield]: https://img.shields.io/github/stars/presnap/presnap.github.io.svg?style=for-the-badge
-[stars-url]: https://github.com/presnap/presnap.github.io/stargazers
-[issues-shield]: https://img.shields.io/github/issues/presnap/presnap.github.io.svg?style=for-the-badge
-[issues-url]: https://github.com/presnap/presnap.github.io/issues
+[contributors-shield]: https://img.shields.io/github/contributors/ReadRPO/readrpo.github.io.svg?style=for-the-badge
+[contributors-url]: https://github.com/ReadRPO/readrpo.github.io/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ReadRPO/readrpo.github.io.svg?style=for-the-badge
+[forks-url]: https://github.com/ReadRPO/readrpo.github.io/network/members
+[stars-shield]: https://img.shields.io/github/stars/ReadRPO/readrpo.github.io.svg?style=for-the-badge
+[stars-url]: https://github.com/ReadRPO/readrpo.github.io/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ReadRPO/readrpo.github.io.svg?style=for-the-badge
+[issues-url]: https://github.com/ReadRPO/readrpo.github.io/issues
 [product-screenshot]: images/_screenshot.png
