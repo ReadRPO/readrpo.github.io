@@ -269,6 +269,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 ReadRPO - Aarav Batra
+<br>
 Email us at aaravbatra@duck.com
 
 Project Link: [https://github.com/ReadRPO/readrpo.github.io](https://github.com/ReadRPO/readrpo.github.io)
