@@ -10,4 +10,5 @@ Our documentation is available at [readrpo.github.io](https://readrpo.github.io)
 
 ## Citations
 [1] Batra, A., Pike, D., Steinfeld, A., et al. (2023). Roboflow (Version 1.0) ReadRPO. Available from https://roboflow.com. computer vision.
+<br>
 [2] ReadRPO Docs is published under the MIT License in `LICENSE` on our [GitHub repository](https://github.com/ReadRPO/readrpo.github.io).
