@@ -20,9 +20,7 @@
   It is distributed under the MIT license in `LICENSE`. 
   The software is fully open-source and available for anyone to view, fork, or edit.
   <br>
-  
-  <br> 
-  
+
   <a href="https://github.com/ReadRPO/readrpo.github.io"><strong>Explore the docs »</strong></a>
   <br />
   <a href="https://github.com/ReadRPO/readrpo.github.io">View Demo</a>
