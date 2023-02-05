@@ -104,7 +104,7 @@ https://git-scm.com/downloads
 
 <br>
 
-* Ruby installation for Linux, Windows, or macOS
+* Ruby installation for Linux, Windows, or macOS:
 
 Check for any existing Ruby versions
 ~~~sh
@@ -117,7 +117,7 @@ https://www.ruby-lang.org/en/documentation/installation
 
 <br>
 
-Jekyll installation for Linux, Windows, or macOS
+* Jekyll installation for Linux, Windows, or macOS:
 (Ruby, Gems, GCC, and MAKE are required)
 
 Install Jekyll via Bundler Gems with Linux, Windows or macOS
@@ -127,7 +127,7 @@ gem install jekyll bundler
 
 <br>
 
-* SASS installation for Linux, Windows, or macOS
+* SASS installation for Linux, Windows, or macOS:
 
 Node.js installation for SASS on any operating system
 ~~~sh
@@ -204,8 +204,8 @@ Add, update or remove a documentation page in the *Documentation* collection.
 
 ReadRPO is an intuitive tool to detect the location of a football player on a field using relative points and landmarks. 
 This data can be rearranged into routes that would be drawn out based on their paths and trajectories. 
+<br>
 This provides the user with data that could be used to break down the tendencies of offense/defense, mark footage based off annotated data, and provide a dynamic for coaches to make executive decisions in real time.
-ReadRPO Docs automatically tailors the website to each detected device capability.
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
@@ -231,6 +231,8 @@ ReadRPO Docs automatically tailors the website to each detected device capabilit
 ### Logic component:
 * ...
 
+<br>
+<br>
 See the [open issues](https://github.com/ReadRPO/readrpo.github.io/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
