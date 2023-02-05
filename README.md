@@ -23,7 +23,7 @@
 
   <a href="https://github.com/ReadRPO/readrpo.github.io"><strong>Explore the docs »</strong></a>
   <br />
-  <a href="https://github.com/ReadRPO/readrpo.github.io">View Demo</a>
+  <a href="https://readrpo.github.io">View Demo</a>
   ·
   <a href="https://github.com/ReadRPO/readrpo.github.io/issues">Report Bug</a>
   ·
