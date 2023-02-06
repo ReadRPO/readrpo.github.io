@@ -15,7 +15,7 @@ Allow: /
 User-agent: Googlebot
 Allow: /
 
-User-agent: Slurp # yahoo crawler
+User-agent: Slurp
 Allow: /
 
 User-agent: Yandexbot
