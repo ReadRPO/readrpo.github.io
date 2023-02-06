@@ -8,12 +8,12 @@
 [![Issues][issues-shield]][issues-url]
 
 
-<!-- PROJECT LOGO
+<!-- PROJECT LOGO -->
 <br />
   <a href="https://github.com/ReadRPO/readrpo.github.io">
     <img src="/touch-icon.png" alt="Logo" width="80" height="80">
   </a>
-  --> 
+
 <h3>ReadRPO Docs</h3>
 
   ReadRPO Docs is an open-source documentation website hosted on GitHub Pages. 
