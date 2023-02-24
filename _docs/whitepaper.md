@@ -10,9 +10,9 @@ order: 1
   <br>
   Aarav Batra
   <br>
-  [aaravbatra@duck.com](aaravbatra@duck.com)
+  <a href="aaravbatra@duck.com">aaravbatra@duck.com</a>
   <br>
-  [readrpo.github.io](https://readrpo.github.io)
+  <a href="https://readrpo.github.io">readrpo.github.io</a>
   <br>
   
   <br>
