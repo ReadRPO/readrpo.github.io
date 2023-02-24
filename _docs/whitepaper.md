@@ -4,7 +4,7 @@ category:
 order: 1
 ---
 <center>
-  # ReadRPO: A Real Time Electronic Football Analyst
+# ReadRPO: A Real Time Electronic Football Analyst
   <br>
   Aarav Batra
   <br>
