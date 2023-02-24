@@ -45,6 +45,6 @@ order: 1
 ## 9. Conclusion
 
 ## References
-[1] Copyright 2023 ReadRPO by Aarav Batra
-[2] Batra, A., Pike, D., Steinfeld, A., et al. (2023). Roboflow (Version 1.0) ReadRPO. Available from https://roboflow.com. computer vision.
+[1] Copyright 2023 ReadRPO by Aarav Batra<br>
+[2] Batra, A., Pike, D., Steinfeld, A., et al. (2023). Roboflow (Version 1.0) ReadRPO. Available from https://roboflow.com. computer vision.<br>
 [3] NCAA Football Rulebook. (2023). NCAA Football  Rule 1, Section 4, Article 1. Available from https://www.ncaapublications.com. 
