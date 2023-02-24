@@ -1,13 +1,10 @@
 ---
-title: Whitepaper
-category: Drafts
+title: A Real Time Electronic Football Analyst
+category: ReadRPO
 order: 1
 ---
 
 <div align="center">
-  
-  <h1>ReadRPO: A Real Time Electronic Football Analyst</h1>
-  <br>
   Aarav Batra
   <br>
   <a href="aaravbatra@duck.com">aaravbatra@duck.com</a>
