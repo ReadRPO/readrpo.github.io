@@ -1,6 +1,6 @@
 ---
 title: A Real Time Electronic Football Analyst
-category: ReadRPO:\
+category: ReadRPO
 order: 1
 ---
 
