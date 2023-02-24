@@ -29,6 +29,6 @@ ReadRPO 2023, Roboflow (Version 1.0). Available from https://roboflow.com. compu
 Our documentation is available at [readrpo.github.io](https://readrpo.github.io). The [Changelog](https://readrpo.github.io/changelog) documents the major/minor releases for ReadRPO.
 
 ## Citations
-[1] Batra, A., Pike, D., Steinfeld, A., et al. (2023). Roboflow (Version 1.0) ReadRPO. Available from https://roboflow.com. computer vision.
+[1] Batra, A., Pike, D., Steinfeld, A., et al. (2023). Roboflow (Version 1.0) ReadRPO. Available from [roboflow.com](https://roboflow.com). computer vision.
 <br>
-[2] Batra, A., et al. (2023) GitHub (Version 1.0) ReadRPO. Available from https://github.com/ReadRPO/readrpo.github.io. Documentation website, MIT license.
+[2] Batra, A., et al. (2023) GitHub (Version 1.0) ReadRPO. Available from [GitHub.com](https://github.com/ReadRPO/readrpo.github.io). Documentation website, MIT license.
