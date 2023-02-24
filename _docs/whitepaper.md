@@ -4,8 +4,9 @@ category: Drafts
 order: 1
 ---
 
-<div style="text-align: center;">
-  # ReadRPO: A Real Time Electronic Football Analyst
+<div align="center">
+  
+  <h1>ReadRPO: A Real Time Electronic Football Analyst</h1>
   <br>
   Aarav Batra
   <br>
