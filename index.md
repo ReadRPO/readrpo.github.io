@@ -19,10 +19,8 @@ Reach out to us at [aaravbatra@duck.com](aaravbatra@duck.com)!
 <br>
   <a href="https://github.com/ReadRPO/readrpo.github.io">
   <img src="/images/roboflow_full_logo_color.png" alt="Roboflow Logo" width="220" height="60">
-  ReadRPO 2023, Roboflow (Version 1.0). Available from https://roboflow.com. computer vision.
 <br>
-  
-<br>
+ReadRPO 2023, Roboflow (Version 1.0). Available from https://roboflow.com. computer vision.
 
 ## Documentation
 Our documentation is available at [readrpo.github.io](https://readrpo.github.io). The [Changelog](https://readrpo.github.io/changelog) documents the major/minor releases for ReadRPO.
