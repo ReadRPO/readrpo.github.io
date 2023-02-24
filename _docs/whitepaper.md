@@ -1,6 +1,6 @@
 ---
 title: Whitepaper
-category:
+category: Drafts
 order: 1
 ---
 <center>
