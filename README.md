@@ -201,15 +201,12 @@ Add, update or remove a documentation page in the *Documentation* collection.
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
 
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 ReadRPO is an intuitive tool to detect the location of a football player on a field using relative points and landmarks. 
-This data can be rearranged into routes that would be drawn out based on their paths and trajectories. 
-<br>
-
-<br>
-
+This data can be rearranged into routes that would be drawn out based on their paths and trajectories.<br>
 This provides the user with data that could be used to break down the tendencies of offense/defense, mark footage based off annotated data, and provide a dynamic for coaches to make executive decisions in real time.
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
@@ -235,8 +232,6 @@ This provides the user with data that could be used to break down the tendencies
 
 ### Logic component:
 * ...
-
-<br>
 
 <br>
 
